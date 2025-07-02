@@ -1,12 +1,13 @@
 import './styles/App.css';
 
-import { Banner } from './components/Banner'
+import { Banner } from './components/Banner/Banner'
+import { InputForm } from './components/InputForm/InputForm';
 
 export function App() {
   return (
     <>
       <Banner />
-      <h1>Hello World!</h1>
+      <InputForm />
     </>
   );
 }

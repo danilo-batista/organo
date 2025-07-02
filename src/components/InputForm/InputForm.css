@@ -1,0 +1,18 @@
+.inputForm {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 1rem;
+}
+
+.inputForm__form {
+    max-width: 80%;
+    padding: 2rem 6rem;
+
+    border-radius: 1.25rem;
+    background-color: #F6F6F6;
+    box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.08);
+
+    h2 {
+        font-family: "Prata", serif;
+    }
+}
