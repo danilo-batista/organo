@@ -1,5 +1,5 @@
 
-![Capa de apresentação do treinamento React: Desenvolvendo com JavaScript](/public/images/banner-couse_React.png)
+![Capa de apresentação do treinamento React: Desenvolvendo com JavaScript](/public/images/banner-course_React.png)
 
 # Organo
 
