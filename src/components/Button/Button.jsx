@@ -1,9 +1,9 @@
-import './Button.css';
+import "./Button.css";
 
 export function Button(props) {
-    return (
-        <button className='button'>
-            {props.children}
-        </button>
-    )
+	return (
+		<button type="submit" className="button">
+			{props.children}
+		</button>
+	);
 }

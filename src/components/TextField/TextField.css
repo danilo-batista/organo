@@ -1,24 +1,24 @@
 .textField {
-    margin: 1.5rem 0;
+	margin: 1.5rem 0;
 }
 
 .textField__label {
-    display: block;
-    margin-bottom: 0.5rem;
-    font-size: 1.125rem;
-    font-weight: 600;
+	display: block;
+	margin-bottom: 0.5rem;
+	font-size: 1.125rem;
+	font-weight: 600;
 }
 
 .textField__input {
-    max-width: 58.5rem;
-    width: 100%;
-    height: 3rem;
-    padding: 1.125rem;
-    box-sizing: border-box;
+	max-width: 58.5rem;
+	width: 100%;
+	height: 5rem;
+	padding: 1.125rem;
+	box-sizing: border-box;
 
-    background-color: #FFF;
-    border: none;
-    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+	background-color: #fff;
+	border: none;
+	box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
 
-    font-size: 1.125rem;
+	font-size: 1.125rem;
 }
